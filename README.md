@@ -39,7 +39,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- ****
+- **Calculator UI/UX design**
+- **Added logic**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
