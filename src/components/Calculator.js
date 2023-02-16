@@ -12,7 +12,7 @@ const Calculator = () => {
   // using the useState hook
   const [state, setState] = useState(initialState);
 
-  // CLICK FUNCTION
+  // CREATE CLICK FUNCTION
   const onClickHandler = (e) => {
     const targetValue = e.target.value;
     const updatestate = calculate(state, targetValue);
