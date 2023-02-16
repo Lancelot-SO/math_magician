@@ -41,6 +41,7 @@
 
 - **Calculator UI/UX design**
 - **Added logic**
+- **Refactor with hooks**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
