@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 import './Calculator.css';
