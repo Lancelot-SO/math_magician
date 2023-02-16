@@ -16,6 +16,7 @@ main {
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(6, 1fr);
   grid-gap: 2px;
+  overflow: hidden;
 }
 
 .display {
