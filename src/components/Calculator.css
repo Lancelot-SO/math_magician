@@ -1,14 +1,24 @@
+.calc {
+  display: grid;
+  margin-top: 100px;
+  padding-bottom: 100px;
+}
+
+.calc h2 {
+  font-size: 34px;
+  margin-left: 300px;
+}
+
 main {
-  background-color: #333;
+  background-color: #fff;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }
 
 .calculator {
   width: 450px;
-  height: 600px;
+  height: 500px;
   background-color: #fff;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
@@ -16,6 +26,7 @@ main {
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(6, 1fr);
   grid-gap: 2px;
+  margin-left: 650px;
 }
 
 .display {

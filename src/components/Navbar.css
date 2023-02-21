@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  width: 100vw;
+  height: 70px;
+  background-color: #ff6f00;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  box-shadow: 10px 5px 5px #bfb8b8;
+  top: 0;
+}
+
+.math {
+  font-size: 30px;
+  padding-left: 50px;
+}
+
+.navbar ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding-right: 80px;
+  gap: 30px;
+}
+
+.navbar ul .navLink {
+  font-size: 20px;
+  color: #000;
+  text-decoration: none;
+}
