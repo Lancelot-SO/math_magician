@@ -1,0 +1,11 @@
+.quote {
+  margin-top: 350px;
+  padding-left: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote p {
+  font-size: 30px;
+}

@@ -41,6 +41,7 @@
 
 - **Calculator UI/UX design**
 - **Added logic**
+- **Added Navigation bar**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,6 +85,7 @@ Install this project with:
 ```sh
   cd my-project
   npm install -y
+  npm install react-router-dom
 ```
 
 ### Usage
@@ -113,6 +115,7 @@ To run the project:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Add good UI/UX]**
+- [ ] **[Add Navigation bar with route]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
