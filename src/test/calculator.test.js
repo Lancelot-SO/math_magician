@@ -1,12 +1,12 @@
 import { BrowserRouter } from 'react-router-dom';
 import renderer from 'react-test-renderer';
-import Home from '../components/Home';
+import Calculator from '../components/Calculator';
 
 it('renders correctly', () => {
   const tree = renderer
     .create(
       <BrowserRouter>
-        <Home />
+        <Calculator />
       </BrowserRouter>,
     )
     .toJSON();
