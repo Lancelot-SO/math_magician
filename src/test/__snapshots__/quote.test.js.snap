@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="quote"
+>
+  <p>
+    Mathematics consists of proving the most obvious thing in the least obvious way.
+  </p>
+</div>
+`;

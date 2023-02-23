@@ -42,6 +42,7 @@
 - **Calculator UI/UX design**
 - **Added logic**
 - **Added Navigation bar**
+- **Test component functionalities**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
